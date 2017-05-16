@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.0.1)
+  - MHTextField (0.6)
+  - PureLayout (3.0.2)
+  - SnapKit (3.0.2)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - MHTextField
+  - PureLayout
+  - SnapKit (~> 3.0.2)
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  MHTextField: c13dad029b2a3da5e6a1c7adc7fa499ca8a976e5
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+PODFILE CHECKSUM: bf014129a99b2ab432a8f0c5cfea8b65ab1c1d7e
+
+COCOAPODS: 1.1.1
